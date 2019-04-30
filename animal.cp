@@ -11,10 +11,6 @@
  *
  * Nickname:  Geri
  *
- * E-mail:  gemadang@syr.edu
- *
- * Assignment:  Assignment 1
- *
  * Environment/Compiler: Xcode
  *
  * Date:  Jan 31, 2017
